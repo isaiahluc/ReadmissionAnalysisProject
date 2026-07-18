@@ -8,7 +8,7 @@
 
 ![Key drivers of 30-day readmission](reports/readmission_key_drivers.png)
 
-- **Prior hospital utilization is the single strongest signal.** Patients with 4+ prior inpatient stays in the past year are readmitted within 30 days at **27.3%**, versus **5.7%** for patients with no prior inpatient stays — a nearly 5x gap. This dwarfs every other variable in the dataset.
+- **Prior hospital utilization is the single strongest signal.** Patients with 4+ prior inpatient stays in the past year are readmitted within 30 days at **27.3%**, versus **5.7%** for patients with no prior inpatient stays; a nearly 5x gap. This dwarfs every other variable in the dataset.
 - **Discharge destination matters as much as diagnosis.** Patients discharged to another rehab facility are readmitted at **21.1%**; patients discharged to a skilled nursing facility (SNF) at **11.0%**; patients discharged straight home at **5.6%**. Where a patient goes after discharge is one of the most actionable levers a care team controls.
 - **Risk rises steadily with age, then plateaus.** Readmission climbs from ~5.6% (ages 45–65) to a peak of **8.8%** in the 80–90 bracket, then dips slightly for the oldest patients (likely a hospice/mortality survivorship effect already filtered out of this dataset).
 - **More ER visits and more prior emergencies compound risk.** Patients with 2+ emergency visits in the prior year are readmitted at **13.3%**, nearly double the base rate.
